@@ -15,10 +15,8 @@ Ingredients:
 Directions:
 1. Remove odd pots and pans from oven.
 2. Preheat oven to 350 degrees.
-=======
 3. Cream together butter and sugar.
 4. Add eggs and crushed bananas. Combine well.
->>>>>>> 77dfb92d8a6d3cade013844e07c543e26701e329
 5. Sift together flour, soda and salt.
 6. Add to creamed mixture.
 7. Add vanilla.
